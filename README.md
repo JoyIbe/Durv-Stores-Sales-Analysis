@@ -1,5 +1,8 @@
 # Durv Stores Sales Analysis Project Using Power BI built-in tools.
 
+## Table of Contents
+
+
 ## Overview
 
 The analysis provides insights into Durv stores business health from Jan 2023-Aug 2024. Identifying trends to help drive strategic decision-making for business growth.
@@ -71,7 +74,7 @@ Key Metrics Summary
 Total Customers: 213, Total Sales Rep: 20, Total Quantity Sold: 4116, Total Products: 247,209. 
 
 
-#### Product Performance Analysis
+#### Product Performance Analysis:
 
 Return Status: High return and pending return rates indicate potential product quality issues or mismatched customer expectations.
 
