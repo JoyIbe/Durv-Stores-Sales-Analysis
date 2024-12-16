@@ -33,34 +33,39 @@ Data Visualization: Built a two pages interactive dashboards to properly communi
 
 ### Sales Performance Report
 
-Key Metrics Summary
-Metric	        2023	        2024	        YoY % Change
-Total Sales	$78.264K	$49.780K	▼ -46.73%
-Total Revenue	$240.376K	$140.052K	▲ +58.26%
-Total COGS	$55.702K	$34.314K	▼ -62.55%
-Gross Profit	$184.674K	$105.738K	▲ +20.82%
+- Key Metrics Summary
+  
+Metric|2023|2024|YoY % Change
+|---|---|---|---|
+Total Sales| $78.264K| $49.780K|	▼ -46.73%
+Total Revenue| $240.376K|	$140.052K|	▲ +58.26%
+Total COGS|	$55.702K|	$34.314K|	▼ -62.55%
+Gross Profit|	$184.674K|	$105.738K|	▲ +20.82%
 
-Observation: While total sales have decreased by 46.73%, total revenue and gross profit have increased, indicating better pricing, cost efficiency, or higher-margin products being sold.
+While total sales have decreased by 46.73%, total revenue and gross profit have increased, indicating better pricing, cost efficiency, or higher-margin products being sold.
 COGS has significantly reduced (-62.55%), contributing to improved profit margins.
 
-Sales Performance Trends for recent year:
+
+- Sales Performance Trends for recent year:
+  
 Daily Sales: Sales exhibit fluctuations with a sharp decline during specific weekdays.
 
-Monthly Sales: Strong performance in March and June with slight dips in February and August.
-Monthly sales consistently fail to meet the target monthly sales.
+Monthly Sales: Strong performance in March and June with slight dips in February and August. Monthly sales consistently fail to meet the target monthly sales.
 
 Monthly Revenue: Following similar trend, revenue peaks in March and July but underperform in February and August.
 
-Revenue and Sales by Customer Segments: Retail generates the highest revenue at $130K, followed by Wholesale. Subscriptions are the weakest-performing segment.
+- Revenue and Sales by Customer Segments: Retail generates the highest revenue at $130K, followed by Wholesale. Subscriptions are the weakest-performing segment.
 
-Sales and Revenue by Sales Channel: Marketplace and Online Direct are top-performing sales channels. Wholesale lags in both sales and revenue.
+- Sales and Revenue by Sales Channel: Marketplace and Online Direct are top-performing sales channels. Wholesale lags in both sales and revenue.
 
-Revenue by Region: Latin America is the top-performing region for revenue generation. Followed by Middle East & Africa, then Europe.
-Note: Purple markers refer to the total revenue, while the grey refer to the total revenue for the current year.
+- Revenue by Region: Latin America is the top-performing region for revenue generation. Followed by Middle East & Africa, then Europe.
+  
+``
+Note: In the revenue by region chart visual, purple markers refer to the total revenue, while the grey refer to the total revenue for the current year.
 This is so that we can gain deeper dive into revenue growth. Contrasting current year revenue to total showed that even though North America leads Asia Pacific in the total revenue generated, in the current year (2024), Asia Pacific has generated more revenue than North America.
-While Latin America, Middle East & Africa and Europe still maintained same position.
+While Latin America, Middle East & Africa and Europe still maintained same position. ``
 
-Product Performance:
+- Product Performance:
 Top Performing Categories:
 Electronics > Fashion > Sports & Outdoors > Home Appliance > Health & Beauty drive the highest revenue, gross margin, and consistent sales performance.
 Books & Media and Wearables also exhibit strong performance.
@@ -70,32 +75,33 @@ Categories like Groceries and Fitness Equipment have lower revenue and sales per
 
 ### Product Performance and Customer Behaviour Report
 
-Key Metrics Summary
+- Key Metrics Summary
 Total Customers: 213, Total Sales Rep: 20, Total Quantity Sold: 4116, Total Products: 247,209. 
 
 
 #### Product Performance Analysis:
 
-Return Status: High return and pending return rates indicate potential product quality issues or mismatched customer expectations.
+- Return Status: High return and pending return rates indicate potential product quality issues or mismatched customer expectations.
 
-Inventory Status: Low stock and out-of-stock levels are high (877 combined), indicating inventory management challenges that may affect customer satisfaction and sales.
+- Inventory Status: Low stock and out-of-stock levels are high (877 combined), indicating inventory management challenges that may affect customer satisfaction and sales.
 
-Top Product Trends: Sweater Dress dominates sales, but low volumes for products like the Gaming Laptop suggest areas for improvement.
+- Top Product Trends: Sweater Dress dominates sales, but low volumes for products like the Gaming Laptop suggest areas for improvement.
 
 #### Customer Behaviour Analysis:
 
-Total Customers per Segment: Retail has the largest customer base, while Subscriptions have the smallest customer base.
+- Total Customers per Segment: Retail has the largest customer base, while Subscriptions have the smallest customer base.
 
-Discounts per Customer Segment: The Retail segment receives the highest discount rates, while Subscriptions have minimal discounts, which may affect growth in this area.
+- Discounts per Customer Segment: The Retail segment receives the highest discount rates, while Subscriptions have minimal discounts, which may affect growth in this area.
 
-COGS vs Sales by Customers: As COGS increases, sales also tend to increase. The trend suggests that customers purchasing higher-cost products are also driving higher sales volumes.
+- COGS vs Sales by Customers: As COGS increases, sales also tend to increase. The trend suggests that customers purchasing higher-cost products are also driving higher sales volumes.
 
-Total Customers per Sales Channel: Marketplace, Online Direct, and Retail are the top channel for acquiring customers, with Wholesale lagging slightly.
+- Total Customers per Sales Channel: Marketplace, Online Direct, and Retail are the top channel for acquiring customers, with Wholesale lagging slightly.
 
 #### Sales Rep Performance: 
 
-Customer Assessment: The overall assessment shows that more customers satisfaction is being prioritized by many sales representative. However, numbers show a low negative feedback that should be rectified by superiors.
+- Customer Assessment: The overall assessment shows that more customers satisfaction is being prioritized by many sales representative. However, numbers show a low negative feedback that should be rectified by superiors.
 
+---
 
 ### Key Insights and Recommendations: 
 
