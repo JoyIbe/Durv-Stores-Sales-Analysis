@@ -26,7 +26,13 @@ Dax: Employed Dax functionalities to create a new table and calculate specific m
 Power BI: To build the interactive dashboard.
 
 ### Method:
-Data Cleaning: This process of data cleaning carried out in this project includes handling missing values, inconsistencies, incorrect spellings and  standardization
+Data Cleaning: This process of data cleaning carried out in this project includes handling missing values, inconsistencies, incorrect spellings and  standardization.
+
+![Uncleaned dataset](<img width="943" alt="Durv Uncleaned" src="https://github.com/user-attachments/assets/c1d995a0-201d-4919-bbdf-cf1699d16277" />)
+
+![Cleaned dataset](<img width="946" alt="Durv Cleaned" src="https://github.com/user-attachments/assets/466008b9-e534-4cad-ac53-31e2bac09bd0" />)
+
+
 
 Data Processing: With Power Bi's Dax functionalities, I created calculated measures to show valuable metrics and customized visuals to aid clarity in understanding trends.
 
@@ -38,6 +44,8 @@ Data Visualization: Built a two pages interactive dashboards to properly communi
 ## Analysis Findings:
 
 ### Sales Performance Report
+
+![Durv Sales Performance View](https://github.com/user-attachments/assets/5956f443-6da8-4787-8a28-f430ce36db8c)
 
 - Key Metrics Summary
   
@@ -80,6 +88,8 @@ Categories like Groceries and Fitness Equipment have lower revenue and sales per
 
 
 ### Product Performance and Customer Behaviour Report
+
+![Durv Product and Customer Behaviour Performance View](https://github.com/user-attachments/assets/786cc8b4-3fb8-47d7-904f-cb8a951c99e4)
 
 - Key Metrics Summary
 Total Customers: 213, Total Sales Rep: 20, Total Quantity Sold: 4116, Total Products: 247,209. 
