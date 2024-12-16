@@ -1,7 +1,13 @@
 # Durv Stores Sales Analysis Project Using Power BI built-in tools.
 
 ## Table of Contents
-
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Tool and Methodology](#tools-and-methodology)
+- [Analysis Findings](#analysis-findings)
+- [Key Insights and Recommendations](#key-insights-and-recommendations)
+- [Limitation](#limitation)
+- [Conclusion ](#conclusion)
 
 ## Overview
 
