@@ -28,9 +28,9 @@ Power BI: To build the interactive dashboard.
 ### Method:
 Data Cleaning: This process of data cleaning carried out in this project includes handling missing values, inconsistencies, incorrect spellings and  standardization.
 
-![Uncleaned dataset](<img width="943" alt="Durv Uncleaned" src="https://github.com/user-attachments/assets/c1d995a0-201d-4919-bbdf-cf1699d16277" />)
+![Uncleaned dataset](https://github.com/user-attachments/assets/c1d995a0-201d-4919-bbdf-cf1699d16277)
 
-![Cleaned dataset](<img width="946" alt="Durv Cleaned" src="https://github.com/user-attachments/assets/466008b9-e534-4cad-ac53-31e2bac09bd0" />)
+![Cleaned dataset](https://github.com/user-attachments/assets/466008b9-e534-4cad-ac53-31e2bac09bd0)
 
 
 
