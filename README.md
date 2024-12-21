@@ -7,6 +7,7 @@
 - [Analysis Findings](#analysis-findings)
 - [Key Insights and Recommendations](#key-insights-and-recommendations)
 - [Limitation](#limitation)
+- [Link to Viz](#link-to-viz)
 - [Conclusion ](#conclusion)
 
 ## Overview
@@ -156,6 +157,8 @@ Negotiate better supplier terms or consider alternative suppliers for high-cost 
 1. About 10% of missing date values.
 2. Incomplete 2024 data, Only Jan-Aug was provided.
 
+### Link to Viz:
+[Power BI](https://app.powerbi.com/reportEmbed?reportId=c86dd125-9bca-4b77-b21f-41f1baea46b1&autoAuth=true&ctid=0801c8b7-f6a9-44a2-8891-282fd58fab33)
 
 ### Conclusion:
 Durv Stores has achieved strong revenue and profit growth despite a sales decline, thanks to cost efficiencies and high-margin products. They've also shown strong growth in total customers and products performace but challenges remain in product returns, inventory management, and customer satisfaction. By addressing these areas and focusing on high-performing regions, optimize product offerings, improving channel performance, the subscription model, inventory optimization, and sales rep performance, Durv Stores can achieve more consistent growth and higher customer satisfaction.
