@@ -163,7 +163,7 @@ Negotiate better supplier terms or consider alternative suppliers for high-cost 
 ### Conclusion:
 Durv Stores has achieved strong revenue and profit growth despite a sales decline, thanks to cost efficiencies and high-margin products. They've also shown strong growth in total customers and products performace but challenges remain in product returns, inventory management, and customer satisfaction. By addressing these areas and focusing on high-performing regions, optimize product offerings, improving channel performance, the subscription model, inventory optimization, and sales rep performance, Durv Stores can achieve more consistent growth and higher customer satisfaction.
 
-### Code: Using PostgreSQL, I solved 16 business problems.See (Query)[]
+### Code: Using PostgreSQL, I solved 16 business problems. See [Query](https://github.com/JoyIbe/Sales-Analysis-using-Power-BI-built-in-tools/blob/main/Durv_Stores.sql)
 ```sql
 CREATE TABLE durv_stores(
 SalesID int,
