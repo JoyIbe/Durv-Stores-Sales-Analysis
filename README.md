@@ -39,7 +39,7 @@ Data Processing: With Power Bi's Dax functionalities, I created calculated measu
 
 Data Modelling: Modelling this data allows for multiple tables with lesser column information to speed up processing time, reduce redundancy and increase efficiency.
 
-Data Visualization: Built a two pages interactive dashboards to properly communicate findings that will lead to a significant increase in business growth for the new year.
+Data Visualization: Built a two-page interactive dashboard to properly communicate findings that will lead to a significant increase in business growth for the new year.
 
 
 ## Analysis Findings:
