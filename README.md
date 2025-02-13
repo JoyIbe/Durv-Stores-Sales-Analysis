@@ -1,4 +1,4 @@
-# Durv Stores Sales Analysis Project Using Power BI built-in tools.
+# Analysis of Sales, Customer and Product Performance for Durv Stores
 
 ## Table of Contents
 - [Overview](#overview)
