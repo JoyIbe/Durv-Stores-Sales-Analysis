@@ -1,4 +1,4 @@
-# Analysis of Sales, Customer and Product Performance for Durv Stores
+# Analysis of Sales, Customers and Products Performance for Durv Stores
 
 ## Table of Contents
 - [Overview](#overview)
